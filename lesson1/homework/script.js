@@ -6,7 +6,6 @@
 // let c = 'com';
 // let d = 'ua';
 // alert(a + b+"." + c+"." + d);
-//
 // let e = '1';
 // let f = '10';
 // let g = '-999';
@@ -24,17 +23,17 @@
 // - Переприсвоїти кожній змінній з завдання значення на довільне.
 //     Вивести кожну змінну за допомогою: console.log , alert, document.write
 
-// let a = 'hello ';
-// let b = 'world';
+// a = 'Hello';
+// b = 'world';
 // alert(a + b);
 //
-// let e = '1';
-// let f = '10';
-// let g = '11';
-// let h = '01';
-// let i = '101';
-// let j = '111';
-// let k = '110';
+// e = '1';
+// f = '10';
+// g = '11';
+// h = '01';
+// i = '101';
+// j = '111';
+// k = '110';
 // document.write(e, f, g, h, i, j, k);
 //
 // console.log(9 > 8);
@@ -90,10 +89,10 @@
 
 //В математических функциях и выражениях происходит численное преобразование.
 
-let str = "20";
-let a = 5;
-
-document.write(str + a + "<br/>"); //str(20) + a(5) = 25
-document.write(str - a + "<br/>"); //str(20) - a(5) = 15
-document.write(str * "2" + "<br/>"); //str(20) * "2" = 40
-document.write(str / 2 + "<br/>"); //str(20) / "2" = 10
+// let str = "20";
+// let a = 5;
+//
+// document.write(str + a + "<br/>"); //str(20) + a(5) = 25
+// document.write(str - a + "<br/>"); //str(20) - a(5) = 15
+// document.write(str * "2" + "<br/>"); //str(20) * "2" = 40
+// document.write(str / 2 + "<br/>"); //str(20) / "2" = 10
