@@ -42,7 +42,7 @@
 
 
 
-// - Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person.
+// - Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person
 
 // let firstName = 'Yurii ';
 // let middleName = 'Romanovich ';
