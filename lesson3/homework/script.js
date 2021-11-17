@@ -98,30 +98,30 @@
 
 
 //5.
-// let a = [];
-//     a[0] = 1;
-//     a[1] = 2;
-//     a[2] = 3;
-//     a[4] = 'string1';
-//     a[5] = 'string2';
-//     a[6] = 'string3';
-//     a[7] = !!null;
-//     a[8] = !!'value';
-//     a[9] = !undefined;
-//     a[10] = true;
-// console.log(a);
+let a = [];
+    a[0] = 1;
+    a[1] = 2;
+    a[2] = 3;
+    a[4] = 'string1';
+    a[5] = 'string2';
+    a[6] = 'string3';
+    a[7] = !!null;
+    a[8] = !!'value';
+    a[9] = !undefined;
+    a[10] = true;
+console.log(a);
 
 //-------------------------------------------
 
-// for (let i = 1; i <= 10; i++){
-//     document.write(`<div>${i}</div>`);
-// }
+for (let i = 1; i <= 10; i++){
+    document.write(`<div>${i}</div>`);
+}
 
 //-------------------------------------------
 
-// for (let i = 1; i <= 100; i++){
-//     document.write(`<div>${i}</div>`);
-// }
+for (let i = 1; i <= 100; i++){
+    document.write(`<div>${i}</div>`);
+}
 
 //-------------------------------------------
 
